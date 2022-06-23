@@ -23,7 +23,7 @@ Depending on the role you can do different actions.
 - get user's orders - user
 
 # Database structure
-- <img height="130" src="db_tables.jpg" width="500"/>
+<img height="130" src="db_tables.jpg" width="500"/>
 
 # How to run this project on your local machine:
 - Install JDK 11+
